@@ -82,4 +82,21 @@ keeping track of what work I've done for Geeni
                 Implementation: Made 4 textfields so that the user can enter in their code and delete correctly. They enter in a code from their email. 
                 
                 
-####Friday July 9th
+####Monday July 11th
+      File: newsFeedNewConroller.swift
+      Lines of code: ~100 
+      
+      @ChenCodes
+             Story : Populate the TableView with a custom TableViewCell
+             User can see all necessary information
+      @ChenCodes
+            Story : Table View Functionality
+            User sees Newsfeed page
+            User clicks on a cell
+            User is brought to a details page (describes interaction in more detail ie what they worked on, what the person may need to improve on, idk, not even sure if this exists)
+      
+      @ChenCodes
+      Story: Time stamp function
+      
+####Tuesday July 12th
+
